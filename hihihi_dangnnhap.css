@@ -1,0 +1,343 @@
+.container {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.rectangle_42 {
+  position: absolute;
+  width: 1440px;
+  height: 95px;
+  left: 0px;
+  top: 0px;
+  background: #FFFFFF;
+}
+
+.rectangle_42 .left .icon {
+  position: absolute;
+  width: 145px;
+  height: 47px;
+  top: 24px;
+  left: 50px;
+  background: url(../images/hihihi.jpeg) no-repeat;
+  background-size: 130px;
+}
+
+.rectangle_42 .left h4 {
+  position: absolute;
+  width: 167px;
+  height: 28px;
+  top: 38px;
+  left: 213px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.rectangle_42 .right {
+  position: absolute;
+  width: 145px;
+  height: 23px;
+  top: 42px;
+  left: 1212px;
+}
+
+.rectangle_42 .right a {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #0952A3;
+}
+
+.rectangle_43 {
+  margin-top: 95px;
+  height: 550px;
+  background: #175EAC;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.rectangle_43 .left h2 {
+  position: absolute;
+  left: 13.82%;
+  right: 64.38%;
+  top: 29.46%;
+  bottom: 66.2%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.rectangle_43 .left p {
+  position: absolute;
+  left: 10.9%;
+  right: 60.42%;
+  top: 36.59%;
+  bottom: 57.21%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.rectangle_43 .left i {
+  position: absolute;
+  left: 17.57%;
+  right: 68.36%;
+  top: 50.91%;
+  bottom: 25.16%;
+  font-size: 200px;
+  color: #FFFFFF;
+}
+
+.rectangle_43 .left i .rectangle {
+  position: absolute;
+  background: #000000;
+  border-radius: 10px;
+  width: 9.65px;
+}
+
+.rectangle_43 .right {
+  width: 490px;
+  height: 435px;
+  background: #FFFFFF;
+  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 26px;
+}
+
+.rectangle_43 .right .content {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #000000;
+}
+
+.rectangle_43 .right .email {
+  margin-top: 18px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #808080;
+  padding: 21px 206px 21px 19.85px;
+  background: #F7F7F7;
+  border-radius: 5px;
+}
+
+.rectangle_43 .right .password {
+  position: relative;
+  margin-top: 18px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #808080;
+  padding: 21px 206px 21px 19.85px;
+  background: #F7F7F7;
+  border-radius: 5px;
+}
+
+.rectangle_43 .right .password::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 500;
+  content: "\f070";
+  position: absolute;
+  left: 93%;
+}
+
+.rectangle_43 .right .remember_pass {
+  margin-top: 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.rectangle_43 .right .remember_pass .left_pass {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.rectangle_43 .right .remember_pass .left_pass .checkremember {
+  width: 14px;
+  height: 14px;
+  background: #0E50A4;
+  border-radius: 2px;
+  margin-right: 7px;
+}
+
+.rectangle_43 .right .remember_pass .left_pass .checkremember::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 510;
+  font-size: 13px;
+  content: "\f00c";
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #FFFFFF;
+  z-index: 1;
+}
+
+.rectangle_43 .right .remember_pass .left_pass .textcheckremember {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #808080;
+}
+
+.rectangle_43 .right .remember_pass .right_pass .textforgetpass {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: right;
+  color: #0952A3;
+}
+
+.rectangle_43 .right .btn_login {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 17px 187px 18px 187px;
+  background: #0952A3;
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.rectangle_43 .right .btn_signup {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  color: #808080;
+  margin-top: 18px;
+  padding: 17px 121px 18px 121px;
+  background: #FFFFFF;
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  border-radius: 5px;
+}
+
+.rectangle_43 .right .rule {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  /* identical to box height */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #808080;
+  margin-top: 35px;
+}
+
+.rectangle_43 .right .rule span {
+  color: #0952A3;
+}
+/*# sourceMappingURL=hihihi_dangnnhap.css.map */
